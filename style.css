@@ -19,3 +19,8 @@ body {
 .ekszeralcim{
   color: rgb(98, 112, 236);
 }
+
+#cim{
+  color: blueviolet;
+  text-align: center;
+}
