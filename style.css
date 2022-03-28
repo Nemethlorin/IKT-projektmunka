@@ -4,6 +4,8 @@ body {
 
 .kartya{
   background-color: rgb(200, 191, 231);
+  border-bottom-left-radius: 45pt;
+  border-top-right-radius: 45pt;
 }
 
 #ekszercim{
