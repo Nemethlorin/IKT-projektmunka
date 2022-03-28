@@ -2,12 +2,8 @@ body {
   background-color: rgb(193, 208, 227);
 }
 
-.ekszerkartya{
+.kartya{
   background-color: rgb(200, 191, 231);
-}
-
-#kartya{
-  background-color: royalblue;
 }
 
 #ekszercim{
