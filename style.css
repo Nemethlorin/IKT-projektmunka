@@ -1,5 +1,6 @@
 body {
   background-color: rgb(193, 208, 227);
+  text-align: justify;
 }
 
 .kartya {
@@ -9,6 +10,7 @@ body {
   border-bottom-right-radius: 45pt;
   border-top-left-radius: 45pt;
 }
+
 .kepek {
   border-bottom-left-radius: 45pt;
   border-bottom-right-radius: 45pt;
@@ -27,6 +29,7 @@ body {
   text-align: center;
   margin-top: 15px;
 }
+
 .card-text {
   border-bottom-left-radius: 45pt;
   border-top-right-radius: 45pt;
@@ -34,3 +37,15 @@ body {
   border-top-left-radius: 45pt;
 }
 
+.carousel-inner img {
+  width: 95%;
+  height: 80%;
+}
+
+#menu{
+  background-color: brown;
+}
+
+#menupont{
+  color: black;
+}
