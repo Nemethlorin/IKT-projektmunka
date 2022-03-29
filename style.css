@@ -8,6 +8,7 @@ body {
   border-top-right-radius: 45pt;
   border-bottom-right-radius: 45pt;
   border-top-left-radius: 45pt;
+  margin: 2px;
 }
 .kepek {
   border-bottom-left-radius: 45pt;
@@ -18,7 +19,7 @@ body {
   height: 60%;
 }
 
-#ekszercim {
+#cim {
   color: rgb(98, 112, 236);
   text-align: center;
   margin-top: 15px;
@@ -41,4 +42,4 @@ body {
   border-top-left-radius: 45pt;
   border-top-right-radius: 45pt;
 }
-}
+
