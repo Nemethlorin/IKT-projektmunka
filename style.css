@@ -15,13 +15,7 @@ body {
   border-top-left-radius: 45pt;
   border-top-right-radius: 45pt;
   width: 100%;
-  height: 60%;
-}
-
-#ekszercim {
-  color: rgb(98, 112, 236);
-  text-align: center;
-  margin-top: 15px;
+  height: 70%;
 }
 
 .ekszeralcim {
@@ -29,16 +23,7 @@ body {
 }
 
 #cim {
-  color: blueviolet;
+  color: rgb(98, 112, 236);
   text-align: center;
-}
-
-.ekszerkep {
-  width: 100%;
-  height: 60%;
-  border-bottom-left-radius: 45pt;
-  border-bottom-right-radius: 45pt;
-  border-top-left-radius: 45pt;
-  border-top-right-radius: 45pt;
-}
+  margin-top: 15px;
 }
