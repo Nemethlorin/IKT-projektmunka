@@ -16,6 +16,7 @@ body {
   border-top-left-radius: 45pt;
   border-top-right-radius: 45pt;
   width: 100%;
+<<<<<<< HEAD
   height: 60%;
 }
 
@@ -23,6 +24,9 @@ body {
   color: rgb(98, 112, 236);
   text-align: center;
   margin-top: 15px;
+=======
+  height: 70%;
+>>>>>>> c6e78ec7850a444d0f636632109b2b121fa42f76
 }
 
 .ekszeralcim {
@@ -30,8 +34,9 @@ body {
 }
 
 #cim {
-  color: blueviolet;
+  color: rgb(98, 112, 236);
   text-align: center;
+<<<<<<< HEAD
 }
 
 .ekszerkep {
@@ -43,3 +48,7 @@ body {
   border-top-right-radius: 45pt;
 }
 
+=======
+  margin-top: 15px;
+}
+>>>>>>> c6e78ec7850a444d0f636632109b2b121fa42f76
