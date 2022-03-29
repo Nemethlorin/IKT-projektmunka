@@ -2,28 +2,43 @@ body {
   background-color: rgb(193, 208, 227);
 }
 
-.kartya{
+.kartya {
   background-color: rgb(200, 191, 231);
   border-bottom-left-radius: 45pt;
   border-top-right-radius: 45pt;
+  border-bottom-right-radius: 45pt;
+  border-top-left-radius: 45pt;
+}
+.kepek {
+  border-bottom-left-radius: 45pt;
+  border-bottom-right-radius: 45pt;
+  border-top-left-radius: 45pt;
+  border-top-right-radius: 45pt;
+  width: 100%;
+  height: 60%;
 }
 
-#ekszercim{
+#ekszercim {
   color: rgb(98, 112, 236);
   text-align: center;
   margin-top: 15px;
 }
 
-.ekszeralcim{
+.ekszeralcim {
   color: rgb(98, 112, 236);
 }
 
-#cim{
+#cim {
   color: blueviolet;
   text-align: center;
 }
 
-.ekszerkep{
+.ekszerkep {
   width: 100%;
   height: 60%;
+  border-bottom-left-radius: 45pt;
+  border-bottom-right-radius: 45pt;
+  border-top-left-radius: 45pt;
+  border-top-right-radius: 45pt;
+}
 }
