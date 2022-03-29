@@ -37,6 +37,7 @@ body {
   border-top-left-radius: 45pt;
 }
 
+<<<<<<< HEAD
 .carousel-inner img {
   width: 95%;
   height: 80%;
@@ -49,3 +50,8 @@ body {
 #menupont{
   color: black;
 }
+=======
+.card-body {
+  height: 100%;
+}
+>>>>>>> 4c7086013e79def00540a8751b99fa8afe1aa5d2
