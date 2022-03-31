@@ -9,6 +9,7 @@ body {
   border-top-right-radius: 45pt;
   border-bottom-right-radius: 45pt;
   border-top-left-radius: 45pt;
+ 
 }
 
 .kepek {
@@ -31,27 +32,48 @@ body {
 }
 
 .card-text {
-  border-bottom-left-radius: 45pt;
-  border-top-right-radius: 45pt;
-  border-bottom-right-radius: 45pt;
-  border-top-left-radius: 45pt;
+  border: 30px;
 }
 
-<<<<<<< HEAD
 .carousel-inner img {
   width: 95%;
   height: 80%;
 }
 
 #menu{
-  background-color: brown;
+  background-color: rgb(142, 191, 232);
+  text-align: center;
 }
 
 #menupont{
   color: black;
+  margin-left: 100px;
 }
-=======
+#menupont:hover{
+  color: blueviolet;
+}
 .card-body {
   height: 100%;
 }
->>>>>>> 4c7086013e79def00540a8751b99fa8afe1aa5d2
+
+#szöveg{
+  display: inline-block;
+  width: 500px;
+  background-color: rgb(200, 191, 231);
+  border-bottom-left-radius: 45pt;
+  border-top-right-radius: 45pt;
+  border-bottom-right-radius: 45pt;
+  border-top-left-radius: 45pt;
+  padding: 25px;
+  margin-left: 400px;
+  margin-right: 50px;
+}
+
+#kepecske{
+  display: inline-block;
+ 
+}
+
+#kepecskekepe{
+height: 200px;
+}
