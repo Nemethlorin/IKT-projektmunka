@@ -67,3 +67,17 @@ body {
 #kepecskekepe{
 height: 200px;
 }
+
+.link{
+  color: rgb(98, 112, 236);
+  text-decoration: none;
+}
+
+#nyalizas{
+  margin-top: 50px;
+  margin-bottom: 50PX;
+}
+
+#profil{
+  margin-right: 5px;
+}
