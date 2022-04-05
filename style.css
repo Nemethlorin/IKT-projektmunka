@@ -19,7 +19,7 @@ body {
 }
 
 #cim {
-  color: rgb(98, 112, 236);
+  color: rgb(83, 46, 152);
   text-align: center;
   margin-top: 15px;
 }
@@ -33,23 +33,23 @@ body {
   height: 80%;
 }
 
-#menu{
+#menu {
   background-color: rgb(142, 191, 232);
   text-align: center;
 }
 
-#menupont{
+#menupont {
   color: black;
   margin-left: 100px;
 }
-#menupont:hover{
+#menupont:hover {
   color: blueviolet;
 }
 .card-body {
   height: 100%;
 }
 
-#szöveg{
+#szöveg {
   display: inline-block;
   width: 700px;
   background-color: rgb(200, 191, 231);
@@ -58,53 +58,51 @@ body {
   margin-right: 50px;
 }
 
-#kepecske{
+#kepecske {
   display: inline-block;
   width: 50px;
-
 }
 
-#kepecskekepe{
-height: 200px;
-border-bottom-left-radius: 45pt;
-border-top-right-radius: 45pt;
-border-bottom-right-radius: 45pt;
-border-top-left-radius: 45pt;
+#kepecskekepe {
+  height: 200px;
+  border-bottom-left-radius: 45pt;
+  border-top-right-radius: 45pt;
+  border-bottom-right-radius: 45pt;
+  border-top-left-radius: 45pt;
 }
 
-.kartya1{
+.kartya1 {
   background-color: rgb(200, 191, 231);
   border-bottom-left-radius: 45pt;
   border-top-right-radius: 45pt;
   border-bottom-right-radius: 45pt;
   border-top-left-radius: 45pt;
- padding: 20px;
- width: 600px;
- margin-top: 70px;
- display: inline-block;
+  padding: 20px;
+  width: 600px;
+  margin-top: 70px;
+  display: inline-block;
 }
 
-.hirlevel{
+.hirlevel {
   font-size: 200%;
   text-align: left;
 }
 
-.hirlevel{
+.hirlevel {
   text-align: left;
 }
 
-.kartyaasvanylexikon{
+.kartyaasvanylexikon {
   background-color: rgb(200, 191, 231);
   border-bottom-left-radius: 45pt;
   border-top-right-radius: 45pt;
   border-bottom-right-radius: 45pt;
   border-top-left-radius: 45pt;
- padding: 25px;
- width: 900px;
-
+  padding: 25px;
+  width: 900px;
 }
 
-.kartya3{
+.kartya3 {
   background-color: rgb(200, 191, 231);
   border-bottom-left-radius: 45pt;
   border-top-right-radius: 45pt;
@@ -112,30 +110,35 @@ border-top-left-radius: 45pt;
   border-top-left-radius: 45pt;
 }
 
-#resz{
+.resz {
   margin-top: 25px;
   margin-bottom: 25px;
 }
 
-#kepecskekepeá{
+.kepecskekepeá {
   height: 200px;
-border-bottom-left-radius: 45pt;
-border-top-right-radius: 45pt;
-border-bottom-right-radius: 45pt;
-border-top-left-radius: 45pt;
+  border-bottom-left-radius: 45pt;
+  border-top-right-radius: 45pt;
+  border-bottom-right-radius: 45pt;
+  border-top-left-radius: 45pt;
   width: 250px;
 }
 
-.link{
+.kepecskeá {
+  display: inline-block;
+  width: 50px;
+}
+
+.link {
   color: rgb(98, 112, 236);
   text-decoration: none;
 }
 
-#nyalizas{
+#nyalizas {
   margin-top: 50px;
-  margin-bottom: 50PX;
+  margin-bottom: 50px;
 }
 
-#profil{
+.profil {
   margin-right: 5px;
 }
